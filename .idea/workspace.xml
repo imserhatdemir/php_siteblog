@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc3dcd10-b47b-4479-821f-a2933cff5335" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kKgYjhytq7AE0FYbSkyqjssVa3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/editor/yonetim" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\blog\editor\images" />
+      <recent name="C:\xampp\htdocs\blog\editor\yonetim\inc" />
+      <recent name="C:\xampp\htdocs\blog" />
+      <recent name="C:\xampp\htdocs\blog\images" />
+      <recent name="C:\xampp\htdocs\blog\yonetim\inc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\blog\editor\yonetim" />
+      <recent name="C:\xampp\htdocs\blog\editor" />
+      <recent name="C:\xampp\htdocs\blog\inc" />
+      <recent name="C:\xampp\htdocs\blog\yonetim" />
+      <recent name="C:\xampp\htdocs\blog" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc3dcd10-b47b-4479-821f-a2933cff5335" name="Default Changelist" comment="" />
+      <created>1605454760771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605454760771</updated>
+      <workItem from="1605454764466" duration="14238000" />
+      <workItem from="1605530408507" duration="9438000" />
+      <workItem from="1605559852314" duration="2470000" />
+      <workItem from="1605736005717" duration="6665000" />
+      <workItem from="1605810638331" duration="11780000" />
+      <workItem from="1605878792593" duration="15113000" />
+      <workItem from="1605908585746" duration="11041000" />
+      <workItem from="1605963628302" duration="23496000" />
+      <workItem from="1606049441378" duration="15174000" />
+      <workItem from="1606075099602" duration="6564000" />
+      <workItem from="1606142983859" duration="21069000" />
+      <workItem from="1606227577378" duration="17263000" />
+      <workItem from="1606326817604" duration="15320000" />
+      <workItem from="1606393339287" duration="22009000" />
+      <workItem from="1606481235887" duration="6188000" />
+      <workItem from="1606494445310" duration="7030000" />
+      <workItem from="1606768163128" duration="6425000" />
+      <workItem from="1606842151978" duration="5857000" />
+      <workItem from="1606861271851" duration="2823000" />
+      <workItem from="1606920958760" duration="2672000" />
+      <workItem from="1606936568710" duration="4227000" />
+      <workItem from="1607002483531" duration="2759000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="42" key="#Inspections" timestamp="1605737002133">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1605737002133" />
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606237135380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1606237135380" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606497975935">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606497975935" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1606423250555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1606423250555" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1606057084776">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1606057084776" />
+    <state x="324" y="90" width="700" height="530" key="recent.locations.popup" timestamp="1606057010060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="324" y="90" width="700" height="530" key="recent.locations.popup/0.0.1366.728@0.0.1366.728" timestamp="1606057010060" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605891837419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605891837419" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/yonetim/islemler.php</url>
+          <line>909</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
